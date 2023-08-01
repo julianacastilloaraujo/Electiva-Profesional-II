@@ -1,2 +1,8 @@
-# Electiva-Profesional-
-Notas clase 1 | Electiva profesional 2 : Tematica de Ciberseguridad
+# Electiva-Profesional
+# Tematica : Ciberseguridad
+## Dia 1
+
+* Introduccion
+* Principios
+
+
