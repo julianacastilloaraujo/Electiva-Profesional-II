@@ -31,4 +31,7 @@
 * Comienza con la automatizacion y las credenciales robadas y termina con el robo de las cuentas, los fraudes y la friccion con el cliente
 
 # Apropiacion de pagina
+* Una página puede ser usada para realizar acciones no autorizadas
+* Es cuando los bots descargan o "se apropian" de todo el contenido de un sitio web a menudo para usarlo con fines maliciosos
+* Acceder a contenidos adicionales y como subproducto, esto da lugar a datos basura en la base de datos de una empresa
 # Abuso de API
