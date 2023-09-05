@@ -5,4 +5,3 @@
 
 * Herramientas de lineas telefonicas, en donde no se reconocian los identificadores de las personas
 
-* 
