@@ -35,3 +35,7 @@
 * Es cuando los bots descargan o "se apropian" de todo el contenido de un sitio web a menudo para usarlo con fines maliciosos
 * Acceder a contenidos adicionales y como subproducto, esto da lugar a datos basura en la base de datos de una empresa
 # Abuso de API
+* La utilización incorrecta de APIs públicas
+* Acceso a sus servicios y datos
+* SPAM
+* Degrada el rendimiento del sistema y provoca ralentizaciones o interrupciones del mismo
