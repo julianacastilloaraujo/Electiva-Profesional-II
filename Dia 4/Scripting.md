@@ -1,7 +1,6 @@
 # Scripting entre sitios (XSS)
 
 # DoS
-
 * Ataques de denegacion de servicios distribiudo (DDoS): mediante una variedad de vectores, los atacantes pueden sobrecargar un servidor determinado o su infraestructura circundante con diferentes tipos
 
 # Conceptos

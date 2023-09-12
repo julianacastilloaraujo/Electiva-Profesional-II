@@ -17,3 +17,17 @@
 * Que tan seguras son las contrasenas utilizadas por el personal de la empresa
 * Que tan seguro es el sitio web
 * Como se estan cumpliendo las politicas y manuales de ciberseguridad implementados
+
+# Beneficios de auditoria en ciberseguridad
+* Aumentar la seguridad del sistema
+* Ayuda a identificar vulnerabilidades o riesgos potenciales del sistema.
+* Mejora continua del sistema
+* Mejorar la seguridad del sistema
+
+# Tipos de Auditoria
+* Auditoria de vulnerabilidades
+* Auditoria de redes
+* Auditoria forense
+* Auditoria de codigo
+* Auditoria web
+* Hacking etico
