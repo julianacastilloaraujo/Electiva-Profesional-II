@@ -23,3 +23,6 @@ Trasmitir datos de manera encubierta, es decir, sin levantar sospecjas ni ser de
 * Camuflaje de trafico
 * Travesar NAT (Traduccion de direcciones de red)
 * Bajo nivel de deteccion
+  
+# Iodine
+* Permite realizar un tunel DNS
