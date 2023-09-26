@@ -27,3 +27,9 @@
 * Cuales son nuestros gustos e intereses
 * Nuestra direccion IP
 * Las aplicaciones que teneos instaladas en nuestro dispositivo o la memoria de este
+  
+# Otros datos obtenidos
+* Cabeceras HTTP
+* Navegador
+* Browser
+* Informacion de la pantalla
