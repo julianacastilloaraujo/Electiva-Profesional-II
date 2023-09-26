@@ -18,3 +18,12 @@
 * Los codecs de audio y video disponibles
 * El uso de la bateria del dispositivo
 * El listado de aplicaciones instaladas
+  
+
+# Datos obtenidos
+* El tiempo que pasamos en una determinada pagina web
+* El tiempo que estamos visualizando un video
+* En que parte de la pagina centramos nuestra atencion
+* Cuales son nuestros gustos e intereses
+* Nuestra direccion IP
+* Las aplicaciones que teneos instaladas en nuestro dispositivo o la memoria de este
